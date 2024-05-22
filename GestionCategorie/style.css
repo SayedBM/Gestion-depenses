@@ -1,0 +1,25 @@
+body {
+    background-color: #333;
+    color: #fff;
+}
+
+h1 {
+    color: #fff;
+}
+
+label {
+    color: #fff;
+}
+
+input[type="text"],
+input[type="submit"] {
+    background-color: #555;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+input[type="submit"] {
+    cursor: pointer;
+}
